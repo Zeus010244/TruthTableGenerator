@@ -1,4 +1,4 @@
-#TruthTableGenerator
+# TruthTableGenerator
 
 This program takes a Boolean expression as input, generates its complete truth table, and displays the corresponding minterms and maxterms in both canonical and expression form.
 
@@ -17,7 +17,7 @@ The entire application is built with JavaFX and packaged using jpackage.
 #Drive Link For The Code (idk git :( ):
 https://drive.google.com/drive/folders/1bkinL2DiX9btv5bfsNO2lXqhHFuIxZXX
 
-#Installation:
+# Installation:
 
 1. Download the provided .exe application folder.
 
